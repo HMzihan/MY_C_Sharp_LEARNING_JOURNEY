@@ -1,0 +1,7 @@
+D:\Loc - C#\ln.String_Interpolation\ln.String_Interpolation\bin\Debug\ln.String_Interpolation.exe.config
+D:\Loc - C#\ln.String_Interpolation\ln.String_Interpolation\bin\Debug\ln.String_Interpolation.exe
+D:\Loc - C#\ln.String_Interpolation\ln.String_Interpolation\bin\Debug\ln.String_Interpolation.pdb
+D:\Loc - C#\ln.String_Interpolation\ln.String_Interpolation\obj\Debug\ln.String_Interpolation.csproj.AssemblyReference.cache
+D:\Loc - C#\ln.String_Interpolation\ln.String_Interpolation\obj\Debug\ln.String_Interpolation.csproj.CoreCompileInputs.cache
+D:\Loc - C#\ln.String_Interpolation\ln.String_Interpolation\obj\Debug\ln.String_Interpolation.exe
+D:\Loc - C#\ln.String_Interpolation\ln.String_Interpolation\obj\Debug\ln.String_Interpolation.pdb
