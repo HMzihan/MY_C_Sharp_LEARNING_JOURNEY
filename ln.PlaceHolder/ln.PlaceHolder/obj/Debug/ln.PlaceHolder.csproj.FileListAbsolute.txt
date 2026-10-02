@@ -1,0 +1,7 @@
+D:\Loc - C#\ln.PlaceHolder\ln.PlaceHolder\bin\Debug\ln.PlaceHolder.exe.config
+D:\Loc - C#\ln.PlaceHolder\ln.PlaceHolder\bin\Debug\ln.PlaceHolder.exe
+D:\Loc - C#\ln.PlaceHolder\ln.PlaceHolder\bin\Debug\ln.PlaceHolder.pdb
+D:\Loc - C#\ln.PlaceHolder\ln.PlaceHolder\obj\Debug\ln.PlaceHolder.csproj.AssemblyReference.cache
+D:\Loc - C#\ln.PlaceHolder\ln.PlaceHolder\obj\Debug\ln.PlaceHolder.csproj.CoreCompileInputs.cache
+D:\Loc - C#\ln.PlaceHolder\ln.PlaceHolder\obj\Debug\ln.PlaceHolder.exe
+D:\Loc - C#\ln.PlaceHolder\ln.PlaceHolder\obj\Debug\ln.PlaceHolder.pdb
