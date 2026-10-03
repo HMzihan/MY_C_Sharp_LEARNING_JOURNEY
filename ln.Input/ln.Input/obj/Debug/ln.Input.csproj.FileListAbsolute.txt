@@ -1,0 +1,7 @@
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.Input\ln.Input\bin\Debug\ln.Input.exe.config
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.Input\ln.Input\bin\Debug\ln.Input.exe
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.Input\ln.Input\bin\Debug\ln.Input.pdb
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.Input\ln.Input\obj\Debug\ln.Input.csproj.AssemblyReference.cache
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.Input\ln.Input\obj\Debug\ln.Input.csproj.CoreCompileInputs.cache
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.Input\ln.Input\obj\Debug\ln.Input.exe
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.Input\ln.Input\obj\Debug\ln.Input.pdb
