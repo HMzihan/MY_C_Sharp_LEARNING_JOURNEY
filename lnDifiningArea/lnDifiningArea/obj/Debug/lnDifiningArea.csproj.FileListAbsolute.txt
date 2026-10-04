@@ -1,0 +1,7 @@
+D:\Loc - C#\--GitUps--\--LACTURES--\lnDifiningArea\lnDifiningArea\bin\Debug\lnDifiningArea.exe.config
+D:\Loc - C#\--GitUps--\--LACTURES--\lnDifiningArea\lnDifiningArea\bin\Debug\lnDifiningArea.exe
+D:\Loc - C#\--GitUps--\--LACTURES--\lnDifiningArea\lnDifiningArea\bin\Debug\lnDifiningArea.pdb
+D:\Loc - C#\--GitUps--\--LACTURES--\lnDifiningArea\lnDifiningArea\obj\Debug\lnDifiningArea.csproj.AssemblyReference.cache
+D:\Loc - C#\--GitUps--\--LACTURES--\lnDifiningArea\lnDifiningArea\obj\Debug\lnDifiningArea.csproj.CoreCompileInputs.cache
+D:\Loc - C#\--GitUps--\--LACTURES--\lnDifiningArea\lnDifiningArea\obj\Debug\lnDifiningArea.exe
+D:\Loc - C#\--GitUps--\--LACTURES--\lnDifiningArea\lnDifiningArea\obj\Debug\lnDifiningArea.pdb
