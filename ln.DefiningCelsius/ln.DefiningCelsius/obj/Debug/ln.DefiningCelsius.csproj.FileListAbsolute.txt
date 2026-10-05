@@ -1,0 +1,7 @@
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.DefiningCelsius\ln.DefiningCelsius\bin\Debug\ln.DefiningCelsius.exe.config
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.DefiningCelsius\ln.DefiningCelsius\bin\Debug\ln.DefiningCelsius.exe
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.DefiningCelsius\ln.DefiningCelsius\bin\Debug\ln.DefiningCelsius.pdb
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.DefiningCelsius\ln.DefiningCelsius\obj\Debug\ln.DefiningCelsius.csproj.AssemblyReference.cache
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.DefiningCelsius\ln.DefiningCelsius\obj\Debug\ln.DefiningCelsius.csproj.CoreCompileInputs.cache
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.DefiningCelsius\ln.DefiningCelsius\obj\Debug\ln.DefiningCelsius.exe
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.DefiningCelsius\ln.DefiningCelsius\obj\Debug\ln.DefiningCelsius.pdb
