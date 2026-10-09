@@ -1,0 +1,7 @@
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.RelationalOperator\ln.RelationalOperator\bin\Debug\ln.RelationalOperator.exe.config
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.RelationalOperator\ln.RelationalOperator\bin\Debug\ln.RelationalOperator.exe
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.RelationalOperator\ln.RelationalOperator\bin\Debug\ln.RelationalOperator.pdb
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.RelationalOperator\ln.RelationalOperator\obj\Debug\ln.RelationalOperator.csproj.AssemblyReference.cache
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.RelationalOperator\ln.RelationalOperator\obj\Debug\ln.RelationalOperator.csproj.CoreCompileInputs.cache
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.RelationalOperator\ln.RelationalOperator\obj\Debug\ln.RelationalOperator.exe
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.RelationalOperator\ln.RelationalOperator\obj\Debug\ln.RelationalOperator.pdb
