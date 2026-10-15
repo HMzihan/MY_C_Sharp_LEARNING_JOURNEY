@@ -1,0 +1,7 @@
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.NotOperator\ln.NotOperator\bin\Debug\ln.NotOperator.exe.config
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.NotOperator\ln.NotOperator\bin\Debug\ln.NotOperator.exe
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.NotOperator\ln.NotOperator\bin\Debug\ln.NotOperator.pdb
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.NotOperator\ln.NotOperator\obj\Debug\ln.NotOperator.csproj.AssemblyReference.cache
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.NotOperator\ln.NotOperator\obj\Debug\ln.NotOperator.csproj.CoreCompileInputs.cache
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.NotOperator\ln.NotOperator\obj\Debug\ln.NotOperator.exe
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.NotOperator\ln.NotOperator\obj\Debug\ln.NotOperator.pdb
