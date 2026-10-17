@@ -1,0 +1,7 @@
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.BitWiseOperatorLeftRight\ln.BitWiseOperatorLeftRight\bin\Debug\ln.BitWiseOperatorLeftRight.exe.config
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.BitWiseOperatorLeftRight\ln.BitWiseOperatorLeftRight\bin\Debug\ln.BitWiseOperatorLeftRight.exe
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.BitWiseOperatorLeftRight\ln.BitWiseOperatorLeftRight\bin\Debug\ln.BitWiseOperatorLeftRight.pdb
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.BitWiseOperatorLeftRight\ln.BitWiseOperatorLeftRight\obj\Debug\ln.BitWiseOperatorLeftRight.csproj.AssemblyReference.cache
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.BitWiseOperatorLeftRight\ln.BitWiseOperatorLeftRight\obj\Debug\ln.BitWiseOperatorLeftRight.csproj.CoreCompileInputs.cache
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.BitWiseOperatorLeftRight\ln.BitWiseOperatorLeftRight\obj\Debug\ln.BitWiseOperatorLeftRight.exe
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.BitWiseOperatorLeftRight\ln.BitWiseOperatorLeftRight\obj\Debug\ln.BitWiseOperatorLeftRight.pdb
