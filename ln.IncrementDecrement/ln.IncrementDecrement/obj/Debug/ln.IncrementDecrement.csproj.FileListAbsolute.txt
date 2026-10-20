@@ -1,0 +1,7 @@
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.IncrementDecrement\ln.IncrementDecrement\bin\Debug\ln.IncrementDecrement.exe.config
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.IncrementDecrement\ln.IncrementDecrement\bin\Debug\ln.IncrementDecrement.exe
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.IncrementDecrement\ln.IncrementDecrement\bin\Debug\ln.IncrementDecrement.pdb
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.IncrementDecrement\ln.IncrementDecrement\obj\Debug\ln.IncrementDecrement.csproj.AssemblyReference.cache
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.IncrementDecrement\ln.IncrementDecrement\obj\Debug\ln.IncrementDecrement.csproj.CoreCompileInputs.cache
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.IncrementDecrement\ln.IncrementDecrement\obj\Debug\ln.IncrementDecrement.exe
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.IncrementDecrement\ln.IncrementDecrement\obj\Debug\ln.IncrementDecrement.pdb
