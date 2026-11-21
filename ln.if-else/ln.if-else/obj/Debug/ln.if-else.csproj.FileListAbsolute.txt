@@ -1,0 +1,7 @@
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.if-else\ln.if-else\bin\Debug\ln.if-else.exe.config
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.if-else\ln.if-else\bin\Debug\ln.if-else.exe
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.if-else\ln.if-else\bin\Debug\ln.if-else.pdb
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.if-else\ln.if-else\obj\Debug\ln.if-else.csproj.AssemblyReference.cache
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.if-else\ln.if-else\obj\Debug\ln.if-else.csproj.CoreCompileInputs.cache
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.if-else\ln.if-else\obj\Debug\ln.if-else.exe
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.if-else\ln.if-else\obj\Debug\ln.if-else.pdb
