@@ -1,0 +1,7 @@
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.if_ellse_even_odd\ln.if_ellse_even_odd\bin\Debug\ln.if_ellse_even_odd.exe.config
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.if_ellse_even_odd\ln.if_ellse_even_odd\bin\Debug\ln.if_ellse_even_odd.exe
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.if_ellse_even_odd\ln.if_ellse_even_odd\bin\Debug\ln.if_ellse_even_odd.pdb
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.if_ellse_even_odd\ln.if_ellse_even_odd\obj\Debug\ln.if_ellse_even_odd.csproj.AssemblyReference.cache
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.if_ellse_even_odd\ln.if_ellse_even_odd\obj\Debug\ln.if_ellse_even_odd.csproj.CoreCompileInputs.cache
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.if_ellse_even_odd\ln.if_ellse_even_odd\obj\Debug\ln.if_ellse_even_odd.exe
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.if_ellse_even_odd\ln.if_ellse_even_odd\obj\Debug\ln.if_ellse_even_odd.pdb
