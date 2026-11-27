@@ -1,0 +1,7 @@
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.if_else_grades\ln.if_else_grades\bin\Debug\ln.if_else_grades.exe.config
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.if_else_grades\ln.if_else_grades\bin\Debug\ln.if_else_grades.exe
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.if_else_grades\ln.if_else_grades\bin\Debug\ln.if_else_grades.pdb
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.if_else_grades\ln.if_else_grades\obj\Debug\ln.if_else_grades.csproj.AssemblyReference.cache
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.if_else_grades\ln.if_else_grades\obj\Debug\ln.if_else_grades.csproj.CoreCompileInputs.cache
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.if_else_grades\ln.if_else_grades\obj\Debug\ln.if_else_grades.exe
+D:\Loc - C#\--GitUps--\--LACTURES--\ln.if_else_grades\ln.if_else_grades\obj\Debug\ln.if_else_grades.pdb
